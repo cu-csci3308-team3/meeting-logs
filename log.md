@@ -1,3 +1,7 @@
+**2018-11-4**
+- collect resources 
+- current progress check
+
 **2018-10-14**
 
 - chose theme colors
