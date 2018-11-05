@@ -1,5 +1,6 @@
 **2018-11-4**
 - collect resources 
+    - research methods to pull youtube videos into a queue
 - current progress check
 
 **2018-10-14**
