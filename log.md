@@ -1,3 +1,7 @@
+**2018-11-8**
+- review milestone 4 requirements
+- plan databse structure and implementation
+
 **2018-11-4**
 - collect resources 
     - research methods to pull youtube videos into a queue
