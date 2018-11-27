@@ -1,3 +1,8 @@
+**2018-11-26**
+- progress check
+- Node.js research
+- begin working on linking database with frontend
+
 **2018-11-8**
 - review milestone 4 requirements
 - plan databse structure and implementation
