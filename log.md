@@ -1,3 +1,7 @@
+**2018-11-27**
+- Work on Node.js
+- Alter database
+
 **2018-11-26**
 - progress check
 - Node.js research
