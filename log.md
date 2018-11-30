@@ -1,3 +1,7 @@
+**2018-11-19**
+- work on audio search bar
+- work on Node.js
+
 **2018-11-27**
 - Work on Node.js
 - Alter database
