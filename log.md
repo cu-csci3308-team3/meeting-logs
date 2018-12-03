@@ -1,7 +1,7 @@
 **2018-12-2**
 - progress check
 - polish queue page format
-- work on vote buttons
+- implement vote buttons
 
 **2018-11-19**
 - work on audio search bar
