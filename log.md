@@ -1,3 +1,8 @@
+**2018-12-2**
+- progress check
+- polish queue page format
+- work on vote buttons
+
 **2018-11-19**
 - work on audio search bar
 - work on Node.js
