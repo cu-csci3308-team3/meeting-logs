@@ -1,3 +1,7 @@
+**2018-12-4**
+- integrate youtube search
+- style page formats
+
 **2018-12-2**
 - progress check
 - polish queue page format
