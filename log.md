@@ -1,3 +1,6 @@
+**2018-12-5**
+- format pages
+
 **2018-12-4**
 - integrate youtube search
 - style page formats
