@@ -1,3 +1,7 @@
+**2018-12-9**
+- automated testing
+- milestone 5
+
 **2018-12-5**
 - format pages
 
