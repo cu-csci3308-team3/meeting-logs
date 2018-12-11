@@ -1,3 +1,7 @@
+**2018-12-10**
+- testing
+- formating
+
 **2018-12-9**
 - automated testing
 - milestone 5
